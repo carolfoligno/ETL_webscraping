@@ -1,6 +1,15 @@
-# Coleta de Dados em Website de loja de roupa - WebScraping
+# Construção de ETL de Dados em Website de loja de roupa - WebScraping
+<span aling="center">
 
-## Problema de Negócio
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/ETL_logo.png" width="500px"/>
+
+</span>
+
+Extração - transformação - carregamento (ETL):
+  
+  - Tal processo é uma combinação de dados de diversas fontes, passando pela etapa de limpeza e organização desses dados brutos, sendo prepadados para o armazenamento, análise e modelagem com algoritmos de Machine Learning.
+
+## 1. Problema de Negócio
 
 A empresa Star Jeans!
 
@@ -16,9 +25,9 @@ A idéia inicial é entrar no mercado com apenas um produto e para um público e
 
 As principais concorrentes da empresa Start Jeans são as americadas H&M e Macys.
 
-## Método CRISP-DS de Desenvolvimento
+## 2. Método CRISP-DS de Desenvolvimento
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E12AQERUhx3Vbo4Mg/article-cover_image-shrink_720_1280/0/1579703817380?e=1669248000&v=beta&t=GHe0XhVAfK4VhX-hEeY5CFusDjV3cRz6yDDhesdeP2o" width="500" />
+![image1](https://user-images.githubusercontent.com/80589529/210022497-47160142-63c9-4e24-8828-ecd678f71dfa.png)
 
 ### Para o Entendimento de Negócio foi utilizado os seguintes critérios:
 
